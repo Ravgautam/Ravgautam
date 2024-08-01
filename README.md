@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravgautam Aujla
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering
+- 👀 I’m interested in Java and Cloud Computing
+- 🌱 B.Tech graduate in Computer Science and Engineering
 - 📫 Contact me on ravgautamaujla22@gmail.com
 
 <!---
